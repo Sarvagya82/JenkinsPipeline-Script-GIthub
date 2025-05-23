@@ -1,4 +1,4 @@
-# JenkinsPipeline-Script-GIthub
+# JenkinsPipeline-Script-GIthub.
 To integrate this pipeline into your Jenkins setup, copy the provided Jenkinsfile into your repository. The pipeline is designed to work with Jenkins-github pipeline and requires no additional scripts or manual process management.
 This repository contains a Jenkins pipeline script designed to automate the deployment of a Node.js application. The pipeline script handles the entire lifecycle of the application, including:
 
